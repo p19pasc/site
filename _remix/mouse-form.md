@@ -22,6 +22,7 @@ tags:
 
 
 Ύστερα από μικρές προσθήκες στον κώδικα πραγματοποίησα το ζητούμενο της άσκησης: 
+
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="p19pasc" data-slug-hash="rNLLOwd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Mouse form-Παραδοτέο 2ο(2019110)">
   <span>See the Pen <a href="https://codepen.io/p19pasc/pen/rNLLOwd">
   Mouse form-Παραδοτέο 2ο(2019110)</a> by P2019110 (<a href="https://codepen.io/p19pasc">@p19pasc</a>)
