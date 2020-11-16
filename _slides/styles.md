@@ -20,5 +20,6 @@ slides:
   - igoefinger
   - chat-bot
   - apple-siri
+  - projection-keyboard
 ---
 
