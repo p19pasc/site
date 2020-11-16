@@ -26,5 +26,7 @@ events:
   - digital-desk
   - windows95
   - lifestreams
+  - apple-siri
+  - projection-keyboard
 ---
 
