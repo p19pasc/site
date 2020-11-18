@@ -19,7 +19,5 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
-  - apple-siri
-  - projection-keyboard
 ---
 
