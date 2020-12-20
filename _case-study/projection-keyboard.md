@@ -10,6 +10,7 @@ tags:
   - keyboard
   - Συσκευές εισόδου
   - Bluetooth
+  - USB
   - IBM 
 gallery:
   - image_url: /images/projection-keyboard.jpg 
