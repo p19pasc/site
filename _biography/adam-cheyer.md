@@ -17,5 +17,5 @@ tags:
   - Samsung-R&B
 ---
 
-{% include_relative bio-adam-cheyer.md %}
+{% include_relative bio-adam_cheyer.md %}
 
