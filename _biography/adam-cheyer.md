@@ -18,4 +18,4 @@ tags:
 ---
 
 {% include_relative bio-adam_cheyer.md %}
-
+{% include images %}
